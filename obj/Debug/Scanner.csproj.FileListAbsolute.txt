@@ -1,0 +1,13 @@
+C:\Users\xenocode\source\repos\SOFTGuardIO\Scanner\bin\Debug\Scanner.exe
+C:\Users\xenocode\source\repos\SOFTGuardIO\Scanner\bin\Debug\Scanner.pdb
+C:\Users\xenocode\source\repos\SOFTGuardIO\Scanner\bin\Debug\dnlib.dll
+C:\Users\xenocode\source\repos\SOFTGuardIO\Scanner\bin\Debug\dnlib.pdb
+C:\Users\xenocode\source\repos\SOFTGuardIO\Scanner\bin\Debug\dnlib.xml
+C:\Users\xenocode\source\repos\SOFTGuardIO\Scanner\obj\Debug\Scanner.csprojAssemblyReference.cache
+C:\Users\xenocode\source\repos\SOFTGuardIO\Scanner\obj\Debug\Scanner.Form1.resources
+C:\Users\xenocode\source\repos\SOFTGuardIO\Scanner\obj\Debug\Scanner.Properties.Resources.resources
+C:\Users\xenocode\source\repos\SOFTGuardIO\Scanner\obj\Debug\Scanner.csproj.GenerateResource.cache
+C:\Users\xenocode\source\repos\SOFTGuardIO\Scanner\obj\Debug\Scanner.csproj.CoreCompileInputs.cache
+C:\Users\xenocode\source\repos\SOFTGuardIO\Scanner\obj\Debug\Scanner.csproj.CopyComplete
+C:\Users\xenocode\source\repos\SOFTGuardIO\Scanner\obj\Debug\Scanner.exe
+C:\Users\xenocode\source\repos\SOFTGuardIO\Scanner\obj\Debug\Scanner.pdb
